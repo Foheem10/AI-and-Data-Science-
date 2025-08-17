@@ -1,5 +1,5 @@
 
-#Squares of numbers from 1 to 10
+#11. Squares of numbers from 1 to 10
 
 sum_even = 0
 sum_odd = 0

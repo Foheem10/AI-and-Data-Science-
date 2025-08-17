@@ -1,5 +1,5 @@
 
-# factorial using while loop
+# 7. factorial using while loop
 
 num = int(input("Enter a number: "))
 fact = 1
